@@ -28,7 +28,7 @@ To insert image, do this:
 ![League of Draaaaven](202-05-22_00-41-15.png)
 .
 ## Hyperlinks
-
+i'm too lazy to google it
 
 ## Table work
 
